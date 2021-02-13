@@ -1,3 +1,3 @@
 Learning Github
 
-Some Description
+Some Details!
